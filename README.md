@@ -1,5 +1,7 @@
 # Authentication
 ## How to run
+### Clone the project
+```git clone https://github.com/HM-HWS/python-auth```
 ### Activate python virtual environment
 ```source bin/activate```
 ### Deactive python virtual environment
